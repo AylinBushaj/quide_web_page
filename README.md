@@ -1,3 +1,5 @@
+## Siteye ulaşmak için -> https://aylinbushaj.github.io/quide_web_page/
+
 ## Guide Web Sites
 ### Genel Yapının Oluşturulması:
 - Sayfanın temel yapısını oluşturmak için HTML5 doküman yapısını kullanıldı.
