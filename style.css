@@ -1,0 +1,111 @@
+/* index.html */
+.nav_bar{
+  font-size: 10px;
+  display: flex;
+  background-color: black;
+}
+
+.nav_bar>ul>{
+
+  list-style-type: none;
+  margin:0;
+  padding:0;
+}
+
+.nav_bar>ul>li {
+  display: inline;
+}
+
+.nav_bar>a{
+  padding: 14px 16px;
+}
+
+a:link{
+  color:white;
+  text-decoration: none;
+}
+
+a:visited{
+  color:white;
+}
+
+a:hover{
+  color:white;
+  background-color: red;
+}
+
+a:active{
+  color:white;
+}
+
+.banner{
+  font-size: 25px;
+  text-align: center;
+}
+
+.our_services{
+  color: black;
+  font-size: 20px;
+  width: 100%;
+  padding:10px;
+  margin:auto;
+}
+
+footer>p{
+  background-color: black;
+  text-align: center;
+  color: white;
+  font-size: 18px;
+  padding:5px
+
+}
+ 
+/* contact.html */
+
+.contact_banner{
+  color: black;
+  margin: auto;
+  text-align: center;
+}
+
+.contact_banner>h1{
+  font-size: 30px;
+}
+
+.contact_banner>a{
+  font-size: 25px;
+  color: black;
+}
+
+.form{
+  color:black;
+  text-align: center;
+  width: 200px;
+  margin: auto;
+}
+
+/* Form Success Section */
+
+.form_success{
+  font-size: 20px;
+  text-align: center;
+}
+
+/* Services.html */
+
+.services_img{
+  text-align: center;
+}
+
+div>p,ul{
+  font-size: 24px;
+  padding: 10px;
+  margin: 10px;
+}
+
+ 
+
+
+
+
+
